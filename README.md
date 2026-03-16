@@ -68,7 +68,7 @@ Lo que aporto a un equipo de desarrollo va más allá de la sintaxis:
 
 
 
-### 📁 Destacados de mis 18+ Repositorios
+### 📁 Destacados de mis Repositorios
 
 - 🛒 **Retail Data Logic:** Sistemas de gestión con lógica inspirada en flujos de consumo masivo.
 
