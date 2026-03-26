@@ -82,7 +82,7 @@ Lo que aporto a un equipo de desarrollo va más allá de la sintaxis:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JONHREYES95&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JONHREYES95&layout=compact&theme=radical)
 
-
+---
 
 ### 📫 Conectemos
 
