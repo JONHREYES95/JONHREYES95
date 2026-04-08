@@ -81,9 +81,16 @@ Lo que aporto a un equipo de desarrollo va más allá de la sintaxis:
 
 ![Estadísticas de Jonathan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JONHREYES95&theme=radical)
 
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JONHREYES95&theme=radical)
-
-![Productividad](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JONHREYES95&theme=radical)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JONHREYES95&theme=radical" width="450px" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JONHREYES95&theme=radical" width="450px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
