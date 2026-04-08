@@ -77,11 +77,13 @@ Lo que aporto a un equipo de desarrollo va más allá de la sintaxis:
 
 
 ---
-# Mis Estadísticas de GitHub 🚀
+## 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=JONHREYES95&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estadísticas de Jonathan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JONHREYES95&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JONHREYES95&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JONHREYES95&theme=radical)
+
+![Productividad](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JONHREYES95&theme=radical)
 
 ---
 
