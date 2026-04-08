@@ -36,8 +36,6 @@ Lo que aporto a un equipo de desarrollo va más allá de la sintaxis:
 
 | Categoría | Tecnologías |
 
-| :--- | :--- |
-
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) |
 
 | **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) |
@@ -79,7 +77,10 @@ Lo que aporto a un equipo de desarrollo va más allá de la sintaxis:
 
 
 ---
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JONHREYES95&show_icons=true&theme=radical)
+# Mis Estadísticas de GitHub 🚀
+
+![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=JONHREYES95&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JONHREYES95&layout=compact&theme=radical)
 
 ---
